@@ -36,28 +36,28 @@
          }
 
 "DATABASE_NAME": { 
-    Name of the database in mongoDB.", 
+  "  Name of the database in mongoDB.", 
              "value": "None", 
              "required": true
          }
 "LOG_CHANNEL": { 
-    A channel to log the activities of bot. Make sure bot is an admin in the channel.", 
+  "  A channel to log the activities of bot. Make sure bot is an admin in the channel.", 
              "value": "None", 
              "required": true
          }
 "F2LINK_C": { 
-    this variable for streem features, add channel id and make both stream & your bot admin in channel.", 
+    "this variable for streem features, add channel id and make both stream & your bot admin in channel.", 
              "value": "None", 
              "required": true
          }
 
 "PICS": { 
-    Telegraph links of images to show in start message.( Multiple images can be used separated by space )", 
+    "Telegraph links of images to show in start message.( Multiple images can be used separated by space )", 
              "value": "None", 
              "required": true
          }
 "AUTH_CHANNEL": { 
-    To add force subscriber", 
+    "To add force subscriber", 
              "value": "None", 
              "required": true
          }
