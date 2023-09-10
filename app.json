@@ -41,23 +41,23 @@
              "required": true
          }
 "LOG_CHANNEL": { 
-  "  A channel to log the activities of bot. Make sure bot is an admin in the channel.", 
+  "description": "A channel to log the activities of bot. Make sure bot is an admin in the channel.", 
              "value": "None", 
              "required": true
          }
 "F2LINK_C": { 
-    "this variable for streem features, add channel id and make both stream & your bot admin in channel.", 
+    "description": "this variable for streem features, add channel id and make both stream & your bot admin in channel.", 
              "value": "None", 
              "required": true
          }
 
 "PICS": { 
-    "Telegraph links of images to show in start message.( Multiple images can be used separated by space )", 
+  "description":   "Telegraph links of images to show in start message.( Multiple images can be used separated by space )", 
              "value": "None", 
              "required": true
          }
 "AUTH_CHANNEL": { 
-    "To add force subscriber", 
+  "description":   "To add force subscriber", 
              "value": "None", 
              "required": true
          }
