@@ -1,1 +1,16 @@
 
+{ 
+     "name": "Autofilterbot-extra", 
+     "description": "Unlimited filter bot", 
+     
+"API_ID": { 
+             "description": "ENTER YOUR API ID", 
+             "value": "None", 
+             "required": true
+         } 
+
+"API_HASH": { 
+             "description": "ENTER YOUR API HASH", 
+             "value": "None", 
+             "required": true
+         } 
