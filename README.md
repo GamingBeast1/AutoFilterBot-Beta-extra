@@ -53,6 +53,16 @@
 
 ### Deploy
 
+
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/GamingBeast1/THALAPATHY-FILTER-BOT">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
+</a>
+</p>
+</details>
+
 - Heroku:
 Deploy manual using Procfile
 - Render:
