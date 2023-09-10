@@ -14,3 +14,50 @@
              "value": "None", 
              "required": true
          } 
+"BOT_TOKEN": { 
+             "description": "Create a bot using @BotFather, and get the Telegram API token.", 
+             "value": "None", 
+             "required": true
+         } 
+"INDEX_CHANNELS": { 
+             "description": "Id of the channel from where bot will get files and it should be separated by space", 
+             "value": "None", 
+             "required": true
+         }
+"ADMINS": { 
+             "description": "Username or ID of Admin. Separate multiple Admins by space", 
+             "value": "None", 
+             "required": true
+         }
+"DATABASE_URL": { 
+             "description": "Enter your Mongo DB URI", 
+             "value": "None", 
+             "required": true
+         }
+
+"DATABASE_NAME": { 
+    Name of the database in mongoDB.", 
+             "value": "None", 
+             "required": true
+         }
+"LOG_CHANNEL": { 
+    A channel to log the activities of bot. Make sure bot is an admin in the channel.", 
+             "value": "None", 
+             "required": true
+         }
+"F2LINK_C": { 
+    this variable for streem features, add channel id and make both stream & your bot admin in channel.", 
+             "value": "None", 
+             "required": true
+         }
+
+"PICS": { 
+    Telegraph links of images to show in start message.( Multiple images can be used separated by space )", 
+             "value": "None", 
+             "required": true
+         }
+"AUTH_CHANNEL": { 
+    To add force subscriber", 
+             "value": "None", 
+             "required": true
+         }
