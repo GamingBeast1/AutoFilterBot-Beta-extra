@@ -381,7 +381,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
         btn = [[
             InlineKeyboardButton('⚡️ Updates Channel ⚡️', url=UPDATES_LINK),
-            InlineKeyboardButton('🔥 Support Group 🔥', url=SUPPORT_LINK)
+            InlineKeyboardButton('🔥 Movies Group 🔥', url=SUPPORT_LINK)
         ]]
         await query.message.delete()
         await client.send_cached_media(
