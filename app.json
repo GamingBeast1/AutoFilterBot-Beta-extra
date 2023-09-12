@@ -1,7 +1,12 @@
 
 { 
-     "name": "Autofilterbot-extra", 
-     "description": "Unlimited filter bot", 
+     "name": "Saitama bot",
+    "description": "the telegram Autofilter bot",
+    "logo": "https://te.legra.ph/file/9073341c6f71432907eac.jpg",
+    "keywords": ["telegram", "auto-filter"],
+    "stack": "container",
+    "website": "https://github.com/GamingBeast1/AutoFilterBot-Beta-extra",
+    "repository": "https://heroku.com/deploy?template=https://github.com/GamingBeast1/AutoFilterBot-Beta-extra",
      
 "API_ID": { 
              "description": "ENTER YOUR API ID", 
